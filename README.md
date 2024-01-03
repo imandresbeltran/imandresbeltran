@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Eager to team up on projects aligned with my passion for serving others through tech-driven solutions. Let's craft a narrative where innovation meets meaningful impact. 🌐✨ #TechForService**
 
-- 🤝 I’m looking for help with **"🤝 I’m looking for help with" Unlocking dreams and goals through tech-powered solutions. Let's script a story where technology is the catalyst for turning aspirations into reality. Join me in making dreams achievable through innovation.**
+- 🤝 I’m looking for help with **Unlocking dreams and goals through tech-powered solutions. Let's script a story where technology is the catalyst for turning aspirations into reality. Join me in making dreams achievable through innovation.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/andresbeltranofficia/](https://www.linkedin.com/in/andresbeltranofficia/)
 
