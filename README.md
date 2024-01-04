@@ -17,6 +17,15 @@
 
 - ⚡ Fun fact **A bookworm by heart, I indulge in the joy of learning something new every day. Beyond the keyboard, I find balance and strength in the discipline of Taekwondo.**
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/imandresbeltran">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imandresbeltran&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imandresbeltran&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imandresbeltran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imandresbeltran" height="30" width="40" /></a>
