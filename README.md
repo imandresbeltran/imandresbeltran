@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Beltran</h1>
 <h3 align="center">Weaving Digital Tales: Elevating Projects through the Art of Multiplatform Development and Cloud-Powered Innovation</h3>
 
-- 🔭 I’m currently working on **Freelancing with purpose! Currently involved in a project aiming to enhance education for underprivileged kids in my country 🚀.**
+- 🔭 I’m currently working on **founder of NeoKyo Solutions! Currently empowering businesses of all sizes by providing innovative and effective software solutions. 🚀.**
 
 - 🌱 I’m currently learning **Salesforce, Multiplatform Development, International Robotics Certification and Cloud Computing**
 
