@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **founder of NeoKyo Solutions! Currently empowering businesses of all sizes by providing innovative and effective software solutions. 🚀.**
 
-- 🌱 I’m currently learning **Salesforce, Multiplatform Development, International Robotics Certification and Cloud Computing**
+- 🌱 I’m currently learning **Multiplatform Development, International Robotics Certification**
 
 - 👯 I’m looking to collaborate on **Eager to team up on projects aligned with my passion for serving others through tech-driven solutions. Let's craft a narrative where innovation meets meaningful impact. 🌐✨ #TechForService**
 
 - 🤝 I’m looking for help with **Unlocking dreams and goals through tech-powered solutions. Let's script a story where technology is the catalyst for turning aspirations into reality. Join me in making dreams achievable through innovation.**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/andresbeltranofficia/](https://www.linkedin.com/in/andresbeltranofficia/)
 
 - 💬 Ask me about **HTML 5, CSS 3, PHP, C#, C++, JAVA, PYTHON, GIT, SQL**
 
